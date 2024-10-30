@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C C\u002B\u002B\\VisualStudio\\ProyPrueba001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE3BFE-DEFF-41B6-B53E-6A10EA84BF88}|ProyPrueba001.vcxproj|G:\\C C\u002B\u002B\\VisualStudio\\ProyPrueba001\\Prueba001.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7EE3BFE-DEFF-41B6-B53E-6A10EA84BF88}|ProyPrueba001.vcxproj|solutionrelative:Prueba001.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prueba001.c",
+              "DocumentMoniker": "G:\\C C\u002B\u002B\\VisualStudio\\ProyPrueba001\\Prueba001.c",
+              "RelativeDocumentMoniker": "Prueba001.c",
+              "ToolTip": "G:\\C C\u002B\u002B\\VisualStudio\\ProyPrueba001\\Prueba001.c",
+              "RelativeToolTip": "Prueba001.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-16T20:55:25.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
